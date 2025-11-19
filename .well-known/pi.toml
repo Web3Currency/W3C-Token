@@ -1,0 +1,12 @@
+[TOKEN]
+code = "W3C"
+issuer = "GCIPTMBGZ2IXATBZPZTLQYT7OLUC7IJTDBKTFIUAFM4A35R6UU5BLN3W"
+name = "W3C Community Token"
+desc = "Official token for the Web3Currency project on Pi Network, used for governance, rewards, access to exclusive content, and powering decentralized Web3 initiatives within the Pi ecosystem."
+website = "https://web3currency.github.io/w3c-token"
+email = "web3currency.info@gmail.com"
+twitter = "https://x.com/web3currencyNG"
+logo = "https://i.postimg.cc/jDjX4qYG/W3C.png"
+fixed_number = 6
+max_supply = 314000
+is_revocable = false
